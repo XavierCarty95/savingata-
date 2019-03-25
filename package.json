@@ -1,0 +1,27 @@
+{
+  "name": "savingdataforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierCarty95/savingata-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierCarty95/savingata-/issues"
+  },
+  "homepage": "https://github.com/XavierCarty95/savingata-#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.19",
+    "path": "^0.12.7"
+  }
+}
